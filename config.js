@@ -13,7 +13,7 @@ window.APP_CONFIG = {
 
   // GASのスクリプトプロパティ「APP_TOKEN」と同じ文字列。
   // 目隠し程度の役割なので、適当な英数字でよい。
-  APP_TOKEN: "natsu2026school",
+  APP_TOKEN: "koouji4696",
 
   // 教員コンソール（#teacher）に入るときの合言葉。
   // これも「目隠し」程度で、ページのソースを見れば読めてしまいます。
